@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delete Account Instructions</title>
+</head>
+<body>
+    <h1>Delete Your Account</h1>
+    <p>Follow these steps to delete your account:</p>
+    <ol>
+        <li>Log in to your app.</li>
+        <li>Go to the account settings.</li>
+        <li>Find the option to delete your account.</li>
+        <li>Follow the on-screen instructions to confirm the deletion.</li>
+    </ol>
+    <p>If you encounter any issues, please contact our support team at a7med.shorbagy@gmail.com</p>
+</body>
+</html>
